@@ -11,7 +11,7 @@ install_requires = [
     "close_chrome",
     "botasaurus-humancursor",
     "botasaurus-api",
-    "botasaurus-driver",
+    "botasaurus-driver @ git@github.com:blind0/botasaurus-driver.git",
     "bota",
     "botasaurus-proxy-authentication",
     "botasaurus-requests",
